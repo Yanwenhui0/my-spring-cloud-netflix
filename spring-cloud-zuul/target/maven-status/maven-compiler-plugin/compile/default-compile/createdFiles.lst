@@ -1,0 +1,3 @@
+com\ywh\spring\cloud\zuul\ZuulApplication.class
+com\ywh\spring\cloud\zuul\fallback\WebAdminFallbackProvider.class
+com\ywh\spring\cloud\zuul\fallback\WebAdminFallbackProvider$1.class

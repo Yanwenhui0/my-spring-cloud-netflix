@@ -1,0 +1,4 @@
+com\ywh\spring\cloud\web\admin\ribbon\WebAdminRibbonApplication.class
+com\ywh\spring\cloud\web\admin\ribbon\controller\AdminController.class
+com\ywh\spring\cloud\web\admin\ribbon\service\AdminService.class
+com\ywh\spring\cloud\web\admin\ribbon\config\myRobbinConfiguration.class

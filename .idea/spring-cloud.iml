@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-dependencies/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-dependencies/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-eureka/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-eureka/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-service-admin/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-service-admin/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-web-admin-robbin/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-web-admin-robbin/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-web-admin-feign/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-web-admin-feign/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-zuul/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-zuul/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-zipkin/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-zipkin/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-admin/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-admin/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-admin-client/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-cloud-admin-client/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

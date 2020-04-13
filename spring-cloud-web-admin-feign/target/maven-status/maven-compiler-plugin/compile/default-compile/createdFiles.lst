@@ -1,0 +1,5 @@
+com\ywh\spring\cloud\web\admin\feign\config\WebAdminConfiguration.class
+com\ywh\spring\cloud\web\admin\feign\WebAdminFeignApplication.class
+com\ywh\spring\cloud\web\admin\feign\controller\AdminController.class
+com\ywh\spring\cloud\web\admin\feign\service\AdminService.class
+com\ywh\spring\cloud\web\admin\feign\service\hystrix\AdminServiceImpl.class

@@ -1,0 +1,5 @@
+D:\work\idea-workspace\spring-cloud\spring-cloud-web-admin-feign\src\main\java\com\ywh\spring\cloud\web\admin\feign\controller\AdminController.java
+D:\work\idea-workspace\spring-cloud\spring-cloud-web-admin-feign\src\main\java\com\ywh\spring\cloud\web\admin\feign\service\AdminService.java
+D:\work\idea-workspace\spring-cloud\spring-cloud-web-admin-feign\src\main\java\com\ywh\spring\cloud\web\admin\feign\WebAdminFeignApplication.java
+D:\work\idea-workspace\spring-cloud\spring-cloud-web-admin-feign\src\main\java\com\ywh\spring\cloud\web\admin\feign\service\hystrix\AdminServiceImpl.java
+D:\work\idea-workspace\spring-cloud\spring-cloud-web-admin-feign\src\main\java\com\ywh\spring\cloud\web\admin\feign\config\WebAdminConfiguration.java
